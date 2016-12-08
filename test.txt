@@ -1,3 +1,6 @@
 text github
+<<<<<<< HEAD
 hello you are guy 
 update test
+=======
+>>>>>>> parent of b9d3c03... changed
